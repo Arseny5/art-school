@@ -1,0 +1,433 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic');
+.menu-item {
+    margin: 0px 20px 10px 20px;
+    list-style: none;
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+}
+.menu-item3 {
+    margin: 65px 20px 10px 20px;
+    list-style: none;
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+}
+.o {
+    padding: 5px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+}
+.u {
+    padding: 5px;
+    text-decoration: none;
+    color: #d91d52;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.r{
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    color: white;
+}
+
+.main-menu {
+    margin: auto;
+    padding: auto;
+    display: flex;
+    height: 70px;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: bold;
+    margin-top: -230px;
+    margin-left: 310px;
+
+}
+.hol{
+    margin-left: 322px;
+}
+.menu-item1 {
+    margin: 0px 1409px 0px 10px;
+    list-style: none;
+    width: 100px;
+    background-color: #d91d52;
+    height: 60px;
+    border-radius: 0px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.rom{
+    color: white;
+    font-size: 76px;
+    margin-left: 380px;
+    font-weight: bold;
+    line-height: 73px;
+}
+.header{
+    background-image:url(https://arsenyivanov.neocities.org/img/_cut-photo.ru.jpg);
+    height: 700px;
+    float: inherit;
+}
+section {
+    background-color: black;
+}
+.section {
+    background-color: #242329;
+}
+.section1 {
+    background-color: #242329;
+}
+.container {
+    background-color: black;
+    min-height: 300px;
+    width: 1170px;
+    margin: auto;
+    border: 1px double black;
+    display: flex;
+    text-align: center;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 40px;
+    margin: 40px 0px 0px 0px;
+    font-weight: 1000;
+}
+.block {
+    width: 500px;
+    display: flex;
+    align-items: flex-start;
+}
+.block1 {
+    margin-left: 40px;
+    width: 670px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.a {
+    margin: 0px 2px;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #787488;
+    margin: 15px 0px 0px 0px;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #787488;
+}
+body {
+    margin: -12px;
+}
+.mem {
+    height: 120px;
+    width: 185px;
+    background-color: #242329;
+    margin-top: -4px;
+    margin-left: 2px;
+}
+.fof {
+    background-color: black;
+    height: 425px;
+    width: 560px;
+    margin-top: 190px;
+    margin-left: -222px;
+}
+
+.fof1 {
+    background-color: black;
+    height: 425px;
+    width: 560px;
+    margin-top: 190px;
+    margin-left: 30px;
+}
+.lol {
+    height: 120px;
+    width: 389px;
+    background-color: #F0F54B;
+    margin: -120px 0px 0px 182px;
+}
+.lena {
+    color: #F0F54B;
+    margin: -6px;
+    padding-left: 2px;
+    padding-top: 10px;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.igor {
+    font-size: 23px;
+    color: #F0F54B;
+    font-weight: bold;
+    padding-left: 2px;
+    margin-top: -6px;
+    font-family: 'Roboto', sans-serif;
+}
+.form {
+    color: #242329;
+    margin: auto;
+    font-weight: bold;
+    font-size: 28px;
+    padding-top: 33px;
+    line-height: 29px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.formating {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-right: -40px;
+}
+.formating2 {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: -25px;
+}
+.formating1 {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: 70px;
+}
+.mouse {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    min-height: 300px;
+    width: 1170px;
+    margin: auto;
+    border: 1px double black;
+    display: flex;
+    text-align: center;
+}
+.mem1 {
+    height: 120px;
+    width: 186px;
+    background-color: #242329;
+    margin-top: -4px;
+    margin-left: 0px;
+}
+.lol1 {
+    height: 120px;
+    width: 388px;
+    background-color: #F0F54B;
+    margin: -120px 0px 0px 182px;
+}
+.uruk {
+    background-color: white;
+    height: 600px;
+    width: 369px;
+    margin-top: 200px;
+    margin-left: -415px;
+    text-align: center;
+    margin-right: 26px;
+}
+.uruk1 {
+    background-color: white;
+    height: 606px;
+    width: 369px;
+    margin-top: 200px;
+    margin-right: 26px;
+}
+.uruk2 {
+    background-color: white;
+    height: 600px;
+    width: 369px;
+    margin-top: 200px;
+    margin-right: -10px;
+}
+.uruk3{
+    background-color: white;
+    height: 270px;
+    width: 422px;
+    margin-top: 24px;
+    margin-left: 7px;
+    text-align: center;
+}
+.uruk4{
+    background-color: white;
+    height: 270px;
+    width: 748px;
+    margin-top: -270px;
+    margin-left: 420px;
+    text-align: center;
+}
+.gleb {
+    display: flex;
+    justify-content: center;
+    background-color: #242329;
+    width: 1172px;
+    margin: auto;
+    border: 1px double #242329;
+    text-align: center;
+}
+.glebushka {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    width: 100;
+    margin: auto;
+    border: 1px double black;
+    text-align: center;
+}
+.gleb2{
+    background-color: #242329;
+    width: 1170px;
+    margin: auto;
+    border: 1px double #242329;
+}
+.mama {
+    font-weight: bold;
+    color: #D91D52;
+    font-size: 30px;
+}
+.mama2 {
+    font-weight: bold;
+    color: #D91D52;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.papa {
+    margin-top: -20px;
+    font-weight: normal;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.niania {
+    margin-top: 15px;
+    margin: 0px 25px;
+    font-size: 17px;
+    color: #18171b;
+}
+.niania1 {
+    padding-top: -10px;
+    margin: 0px 25px;
+    font-size: 17px;
+    color: #18171b;
+}
+.float{
+    padding-left: 43px;
+}
+.gleg {
+    margin-top: 33px;
+}
+.gleg1 {
+    margin-top: 48px;
+}
+.prog{
+    background-color: white;
+    height: 272px;
+    width: 513px; 
+    margin-left: 20px;
+    margin-right: 7px;
+}
+.flo{
+    float: left;
+}
+.flo2{
+    margin: 5px 20px;
+    padding-left: 178px;
+    font-size: 15px;
+    padding-top: 7px;
+    color: black;
+    line-height: 23px;
+}
+.otziv{
+    color: #D91D52;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 195px;
+    padding-top: 15px;
+}
+.otziv1{
+    color: #D91D52;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 195px;
+    padding-top: 16px;
+}
+.otziv3{
+    color: #D91D52;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 195px;
+    padding-top: 60px;
+}
+.display{
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+}
+.leave{
+    background-color: black;
+    height: 500px;
+    width: 100%;
+}
+.shop{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -10px;
+    padding-top: 60px;
+}
+.wow{
+    margin: 0px 105px 0px 75px;
+    font-size: 35px;
+    font-weight: 100;
+}
+.bob{
+    margin: 0px 105px 0px 115px;
+    font-size: 35px;
+    font-weight: 100;
+}
+.men {
+    margin-left: -1250px;
+    list-style: none;
+    font-weight: bold;
+}
+.men1 {
+    margin-left: -605px;
+    margin-top: -69px;
+    list-style: none;
+    font-weight: bold;
+}  
+.men2 {
+    margin-left: 180px;
+    margin-top: -40px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.men3 {
+    margin-left: 180px;
+    margin-top: -10px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+}  
+.men4 {
+    margin-left: 195px;
+    margin-top: 0px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+}  
+.tochka{
+    margin-left: 1250px;
+    margin-top: -30px;
+}
+.tochka1{
+    margin-left: 1240px;
+    margin-top: -235px;
+    font-size: 30px;
+}
